@@ -1,0 +1,39 @@
+[submodule "chef-repo/cookbooks/build-essential"]
+	path = chef-repo/cookbooks/build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "chef-repo/cookbooks/cron"]
+	path = chef-repo/cookbooks/cron
+	url = https://github.com/opscode-cookbooks/cron.git
+[submodule "chef-repo/cookbooks/emacs"]
+	path = chef-repo/cookbooks/emacs
+	url = https://github.com/opscode-cookbooks/emacs.git
+[submodule "chef-repo/cookbooks/motd-tail"]
+	path = chef-repo/cookbooks/motd-tail
+	url = https://github.com/opscode-cookbooks/motd-tail.git
+[submodule "chef-repo/cookbooks/nagios"]
+	path = chef-repo/cookbooks/nagios
+	url = https://github.com/opscode-cookbooks/nagios.git
+[submodule "chef-repo/cookbooks/ntp"]
+	path = chef-repo/cookbooks/ntp
+	url = https://github.com/opscode-cookbooks/ntp.git
+[submodule "chef-repo/cookbooks/openssh"]
+	path = chef-repo/cookbooks/openssh
+	url = https://github.com/opscode-cookbooks/openssh.git
+[submodule "chef-repo/cookbooks/openssl"]
+	path = chef-repo/cookbooks/openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "chef-repo/cookbooks/sudo"]
+	path = chef-repo/cookbooks/sudo
+	url = https://github.com/opscode-cookbooks/sudo.git
+[submodule "chef-repo/cookbooks/ubuntu"]
+	path = chef-repo/cookbooks/ubuntu
+	url = https://github.com/opscode-cookbooks/ubuntu.git
+[submodule "chef-repo/cookbooks/vim"]
+	path = chef-repo/cookbooks/vim
+	url = https://github.com/opscode-cookbooks/vim.git
+[submodule "chef-repo/cookbooks/fail2ban"]
+	path = chef-repo/cookbooks/fail2ban
+	url = https://github.com/opscode-cookbooks/fail2ban.git
+[submodule "chef-repo/cookbooks/ganglia"]
+	path = chef-repo/cookbooks/ganglia
+	url = https://github.com/heavywater/chef-ganglia.git
