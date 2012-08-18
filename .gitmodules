@@ -37,3 +37,6 @@
 [submodule "chef-repo/cookbooks/ganglia"]
 	path = chef-repo/cookbooks/ganglia
 	url = https://github.com/heavywater/chef-ganglia.git
+[submodule "chef-repo/cookbooks/python"]
+	path = chef-repo/cookbooks/python
+	url = https://github.com/opscode-cookbooks/python.git
